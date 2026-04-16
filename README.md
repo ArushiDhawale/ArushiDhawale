@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArushiDhawale&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="Arushi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArushiDhawale&theme=tokyonight&layout=compact&hide=css&langs_count=6&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArushiDhawale&theme=tokyonight&layout=donut&hide=css&langs_count=6&border_radius=10" alt="Top Languages" />
 </div>
 
 <br>
