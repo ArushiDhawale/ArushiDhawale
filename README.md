@@ -55,6 +55,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArushiDhawale&theme=tokyonight&count_private=true&border_radius=10" alt="Arushi's Streak" />
 </div>
 
+<hr>
+
+## 🚀 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ArushiDhawale?theme=tokyonight&ext=activity&radius=10" alt="LeetCode Stats" />
+</div>
+
 <br>
 
 <div align="center">
