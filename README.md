@@ -34,10 +34,10 @@
 
 <hr>
 
-## 🏆 Profile Trophies
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArushiDhawale&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Arushi's Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArushiDhawale&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Arushi's Activity Graph" />
 </div>
 
 <hr>
@@ -45,9 +45,14 @@
 ## ⚡️ GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ArushiDhawale&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Arushi's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ArushiDhawale&theme=radical&count_private=true&border_radius=10&locale=en" alt="Arushi's Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArushiDhawale&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Arushi's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArushiDhawale&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="Arushi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArushiDhawale&theme=tokyonight&layout=compact&hide=css&langs_count=6&border_radius=10" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArushiDhawale&theme=tokyonight&count_private=true&border_radius=10" alt="Arushi's Streak" />
 </div>
 
 <br>
