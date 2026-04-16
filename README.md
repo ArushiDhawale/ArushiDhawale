@@ -60,7 +60,7 @@
 ## 🚀 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ArushiDhawale?theme=tokyonight&ext=activity&radius=10" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ArushiDhawale?theme=dark&ext=activity&radius=10" alt="LeetCode Stats" />
 </div>
 
 <br>
