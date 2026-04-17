@@ -15,7 +15,7 @@
 
 <br>
 
-## 👩‍💻 About Me
+## About Me
 
 * 👾 **I am currently focusing on building fun web applications and expanding my frontend/backend skills.**
 * 🚀 **Always eager to learn new technologies and frameworks.**
@@ -24,7 +24,7 @@
 
 <hr>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@
 
 <hr>
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArushiDhawale&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Arushi's Activity Graph" />
@@ -42,7 +42,7 @@
 
 <hr>
 
-## ⚡️ GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArushiDhawale&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="Arushi's GitHub Stats" />
@@ -57,7 +57,7 @@
 
 <hr>
 
-## 🚀 LeetCode Stats
+## LeetCode Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/ArushiDhawale?theme=dark&ext=activity&radius=10" alt="LeetCode Stats" />
