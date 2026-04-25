@@ -54,9 +54,9 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArushiDhawale&theme=tokyonight&count_private=true&border_radius=10" alt="Arushi's Streak" />
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://commitpulse.vercel.app/api/streak?user=arushidhawale" alt="My GitHub Streak" />
