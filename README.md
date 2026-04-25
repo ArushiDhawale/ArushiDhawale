@@ -58,6 +58,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArushiDhawale&theme=tokyonight&count_private=true&border_radius=10" alt="Arushi's Streak" />
 </div>
 
+<div align = "center">
+  ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=arushidhawale)
+</div>
+
 <hr>
 
 ## LeetCode Stats
@@ -71,5 +75,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7159C&background=FF000000&center=true&vCenter=true&width=435&lines=Happy+Coding!;Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </div>
-
-![CommitPulse](https://commitpulse.vercel.app/api/streak?user=arushidhawale)
