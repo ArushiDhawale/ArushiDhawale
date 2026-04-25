@@ -72,4 +72,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7159C&background=FF000000&center=true&vCenter=true&width=435&lines=Happy+Coding!;Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </div>
 
-![CommitPulse](https://commitpulse.vercel.app/api/streak?user=jhasourav07)
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=arushidhawale)
