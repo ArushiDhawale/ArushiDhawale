@@ -66,11 +66,11 @@
 
 ## LeetCode Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://leetcard.jacoblin.cool/ArushiDhawale?theme=dark&ext=activity&radius=10" alt="LeetCode Stats" />
 </div>
 
-<br>
+<br> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7159C&background=FF000000&center=true&vCenter=true&width=435&lines=Happy+Coding!;Thanks+for+visiting+my+profile!" alt="Typing SVG" />
