@@ -73,5 +73,5 @@
 <br> -->
 
 <div align="center">
-  <img src="https://commitpulse.vercel.app/api/streak?user=arushidhawale" alt="My leetcode stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArushiDhawale&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="Arushi's Leetcode Stats" />
 </div>
