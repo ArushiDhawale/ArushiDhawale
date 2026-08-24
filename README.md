@@ -8,9 +8,9 @@
   <a href="mailto:arushi.dhawale21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/arushi-dhawale-25522832b/" target="_blank">
+  <a href="https://www.linkedin.com/in/arushi-dhawale-25522832b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
+  </a>
   <!-- <a href="https://arushidhawale.github.io/My-Website/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a> -->
@@ -54,9 +54,9 @@
 
 <br>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArushiDhawale&theme=tokyonight&count_private=true&border_radius=10" alt="Arushi's Streak" />
-</div> -->
+</div>
 
 <p align="center">
   <img src="https://commitpulse.vercel.app/api/streak?user=arushidhawale" alt="My GitHub Streak" />
