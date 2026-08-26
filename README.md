@@ -18,51 +18,44 @@
 
 <br>
 
-### 🚀 About Me
+## About Me
 
-- 🎓 Student, currently interning at **Cisco**
-- 💻 I build practical, real-world applications — from freelance client projects to personal experiments
-- 🧠 Interested in **full-stack web development** and **machine learning**
-- 🌱 Currently sharpening my problem-solving skills for technical interviews & OAs
-- ⚡ Fun fact: I like turning half-baked ideas into shipped products
+* 👾 **I am currently focusing on building fun web applications and expanding my frontend/backend skills.**
+* 🚀 **Always eager to learn new technologies and frameworks.**
+* 👯 I'm looking to collaborate on cool projects!
+* ⚡ **Fun fact:** I love finding new ways to make my projects and profiles look better visually.
 
----
+<hr>
 
-### 🛠️ Tech Stack
+## Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flask,html,css,git,github,vscode,mysql,mongodb,figma" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,java,html,css,git&theme=dark" alt="Skills" />
+  </a>
 </p>
 
----
+<hr>
 
-### 📊 GitHub Stats
+## GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArushiDhawale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArushiDhawale&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArushiDhawale&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Arushi's Activity Graph" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArushiDhawale&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<hr>
 
----
+## GitHub Stats
 
-### 📌 Featured Projects
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ArushiDhawale&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="Arushi's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ArushiDhawale&theme=tokyonight&layout=donut&hide=css&langs_count=6&border_radius=10" alt="Top Languages" />
+</div>
 
-> 💡 Add your top repos here — pin them on your GitHub profile and they'll auto-render below, or list manually:
+<br>
 
-- **[Project Name](https://github.com/ArushiDhawale)** – One-line description of what it does and the stack used.
-- **[Project Name](https://github.com/ArushiDhawale)** – One-line description of what it does and the stack used.
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ArushiDhawale&theme=tokyonight&count_private=true&border_radius=10" alt="Arushi's Streak" />
+</div>
 
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/ArushiDhawale">ArushiDhawale</a> — thanks for stopping by!</i></p>
+<hr>
