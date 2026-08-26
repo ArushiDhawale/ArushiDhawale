@@ -63,15 +63,3 @@
 </p>
 
 <hr>
-
-## LeetCode Stats
-
-<!-- <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ArushiDhawale?theme=dark&ext=activity&radius=10" alt="LeetCode Stats" />
-</div>
-
-<br> -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArushiDhawale&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="Arushi's Leetcode Stats" />
-</div>
