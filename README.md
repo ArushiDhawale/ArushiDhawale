@@ -1,19 +1,22 @@
-<h1 align="center">Hi there, I'm Arushi 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Arushi!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=61&descAlign=62" alt="Header Banner" />
+</div>
 
-<h3 align="center">Full-Stack Developer • ML Enthusiast • Building things that solve real problems</h3>
+<br>
 
-<p align="center">
-  <a href="https://github.com/ArushiDhawale">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Machine+Learning+Explorer;Turning+ideas+into+working+products;Always+learning%2C+always+building" alt="Typing SVG" />
+<div align="center">
+  <a href="mailto:arushi.dhawale21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/arushi-dhawale-25522832b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- <a href="https://arushidhawale.github.io/My-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a> -->
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArushiDhawale&label=Profile%20Views&color=6c63ff&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ArushiDhawale?label=Follow&style=social" alt="followers" />
-</p>
-
----
+<br>
 
 ### 🚀 About Me
 
